@@ -1,0 +1,8 @@
+# api settings
+group_name: speech_recognition_ru # username or href
+session_name: test # any name
+api_id:
+api_hash:
+
+# messages limit for loading
+limit: 10000
